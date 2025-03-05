@@ -1,2 +1,2 @@
 # qa-assessment
-QA assessment for priviee
+QA assessment for privilee
