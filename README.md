@@ -1,2 +1,2 @@
 # qa-assessment
-QA assessment for privilege
+QA assessment for priviee
